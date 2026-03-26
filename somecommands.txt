@@ -1,0 +1,23 @@
+To Clone the whole repository form github [get link from (<> Code) button]:- git clone link
+
+To get every file use :- ls
+
+To get hidden file use :- ls -Force
+
+To display status of the code use :- git status
+
+To clear your terminal use :- clear
+
+if you are stuck at some point you can try pressing :- q
+
+# Important 
+
+// after making chages in a fill you need to do 2 things (1. Add , 2. Commit)
+
+        1. Add - it add new or changed files in your working directory to the git staging area
+
+        # command :- git add filename
+
+        2. Commit - it is the record of the change
+
+        # command :- git commit -m "some message"
