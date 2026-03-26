@@ -1,4 +1,4 @@
-To Clone the whole repository form github [get link from (<> Code) button]:- git clone link
+To Clone the whole repository form github // [get link from (<> Code) button] // :- git clone link
 
 To get every file use :- ls
 
@@ -21,3 +21,12 @@ if you are stuck at some point you can try pressing :- q
         2. Commit - it is the record of the change
 
         # command :- git commit -m "some message"
+
+//
+
+// Other main commands 
+
+        1. push - To send your commits to github repository
+
+        # command :- git push origin main
+//
